@@ -1,0 +1,2 @@
+1. Go to boostrap and copy starter template and paste inside index.html
+2. User live-server in command line to run file (optional)
